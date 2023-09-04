@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/PranavModi999/Food-Order-App/static/css/main.d8e5f9a3.css",
-    "main.js": "/PranavModi999/Food-Order-App/static/js/main.3e856a0c.js",
-    "static/media/meals.jpg": "/PranavModi999/Food-Order-App/static/media/meals.2971f633fc1382581cbf.jpg",
-    "index.html": "/PranavModi999/Food-Order-App/index.html",
-    "main.d8e5f9a3.css.map": "/PranavModi999/Food-Order-App/static/css/main.d8e5f9a3.css.map",
-    "main.3e856a0c.js.map": "/PranavModi999/Food-Order-App/static/js/main.3e856a0c.js.map"
+    "main.css": "./static/css/main.d8e5f9a3.css",
+    "main.js": "./static/js/main.ecc8c53c.js",
+    "static/media/meals.jpg": "./static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "./index.html",
+    "main.d8e5f9a3.css.map": "./static/css/main.d8e5f9a3.css.map",
+    "main.ecc8c53c.js.map": "./static/js/main.ecc8c53c.js.map"
   },
   "entrypoints": [
     "static/css/main.d8e5f9a3.css",
-    "static/js/main.3e856a0c.js"
+    "static/js/main.ecc8c53c.js"
   ]
 }
